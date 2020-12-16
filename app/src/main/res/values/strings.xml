@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Ley Biography</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="kendley">Kendley</string>
+    <string name="borno">Borno</string>
+    <string name="age">Age</string>
+    <string name="value_age">16</string>
+    <string name="birthday">Birthday</string>
+    <string name="value_birthday">December 5, 2003</string>
+    <string name="value_birthplace">Port-au-Prince</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="grade">Grade</string>
+    <string name="value_grade">12th</string>
+    <string name="religion">Religion</string>
+    <string name="value_religion">Christianity</string>
+    <string name="mother">Mother</string>
+    <string name="value_mother">Edelyne Petit-Homme</string>
+    <string name="father">Father</string>
+    <string name="value_father">Kensy Borno</string>
+    <string name="brother">Brother</string>
+    <string name="value_brother">Woodmac Borno</string>
+    <string name="baptism">Baptism</string>
+    <string name="first_communion">First Communion</string>
+    <string name="value_first_communion">May 12, 2013</string>
+    <string name="first_confirmation">First Confirmation</string>
+    <string name="value_first_confirmation">May 10, 2016</string>
+    <string name="school">School</string>
+    <string name="value_school">Saint Louis de Gonzague</string>
+    <string name="value_baptism">21</string>
+    <string name="html_description"><b>Hypertext Markup Language (HTML)</b> is the standard markup
+        language for documents designed to be displayed in a web broswer. It can be assisted by
+        technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+    </string>
+    <string name="css_description" ><b>Cascading Style Sheets (CSS)</b> is a style sheet language
+        used for describing the presentation of a document written in a markup language such as
+        HTML. CSS is a cornerstone technology of the Worl Wide Web, alongside HTML and JavaScript.
+    </string>
+    <string name="php_description" ><b>PHP</b> is a general-purpose scripting language especially
+        suited to web development. PHP code is usually processed on a web server by a PHP interpreter
+        implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable.
+    </string>
+    <string name="sql_description" >w</string>
+    <string name="js_description" ><b>JavaScript</b> often abbreviated as <b>JS</b> is a programming
+        language that conforms to the ECMAScript specification. JavaScript is hight-level, often
+        just-in-time compiled, and multi-paradigm.
+    </string>
+    <string name="python_description" ><b>Python</b> is an interpreted, high-level and general-purpose programming language. Python\'s design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.</string>
+    <string name="java_description" ><b>Java</b> is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.</string>
+    <string name="cpp_description">d</string>
+    <string name="c_sharp_description" >d</string>
+    <string name="c_description" >d</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ley Biography</string>
+    <string name="last_name">Nom</string>
+    <string name="navigation_drawer_open">Ouvrir la barre de navigation</string>
+    <string name="close_navigation_drawer">Fermer la barre de navigation</string>
+    <string name="first_name">Prénom</string>
+    <string name="kendley">Kendley</string>
+    <string name="borno">Borno</string>
+    <string name="age">Âge</string>
+    <string name="value_age">16</string>
+    <string name="value_birthday">05 Décembre 2003</string>
+    <string name="birthday">Date de naissance</string>
+    <string name="value_birthplace">Port-au-Prince</string>
+    <string name="birthplace">Lieu de naissance</string>
+    <string name="grade">Classe</string>
+    <string name="value_grade">Nouveau Secondaire 3</string>
+    <string name="religion">Religion</string>
+    <string name="value_religion">Christianisme</string>
+    <string name="value_mother">Edelyne Petit-Homme</string>
+    <string name="value_father">Kensy Borno</string>
+    <string name="value_brother">Woodmac Borno</string>
+    <string name="mother">Mère</string>
+    <string name="father">Père</string>
+    <string name="brother">Frère</string>
+    <string name="value_school">Saint Louis de Gonzague</string>
+    <string name="baptism">Baptême</string>
+    <string name="first_communion">Première Communion</string>
+    <string name="value_first_communion">12 Mai 2013</string>
+    <string name="first_confirmation">Première Confirmation</string>
+    <string name="value_first_confirmation">10 Mai 2016</string>
+    <string name="school">École</string>
+    <string name="value_baptism">21</string>
+    <string name="html_description">Le <b>HyperText Markup Language</b>, généralement abrégé <b>HTML</b>
+        ou dans sa dernière version <b>HTML5</b> est le language de balisage conçu pour représenter
+        les pages web. C\'est un language permettant d\'écrire de l\'hypertexte, d\'où son nom.
+    </string>
+    <string name="css_description">Les <b>feuilles de style en cascade</b> forment un language
+        informatique qui décrit la présentation des documents HTML et XML. Les standards définissant
+        CSS sont publiés par le World Wide Web Consortium (W3C).
+    </string>
+    <string name="php_description"><b>PHP: Hypertext Preprocessor</b>, plus connu sous son sigle
+        <b>PHP</b> est un language de programmation libre, principalement utilisé pour produire des
+        pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n\'importe
+        quel language interprété de façon locale.
+    </string>
+    <string name="js_description"><b>JavaScript</b> est un language de programmation de scripts
+        principalement employé dans les pages web interactives et à ce titre est une partie
+        essentielle des applications web. Avec les technologies HTML et CSS, JavaScript est parfois
+        considéré comme l\'une des technologies coeur du World Wide Web.
+    </string>
+    <string name="python_description"><b>Python</b> est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.</string>
+    <string name="cpp_description">d</string>
+    <string name="java_description"><b>Java</b> est un langage de programmation orienté objet, basé sur des classes, conçu pour avoir le moins de dépendances d\'implémentation que possible. C\'est un langage de programmation généraliste destiné à permettre aux développeurs d\'applications d\'écrire une fois, de s\'exécuter n\'importe où (Write once, run anywhere : WORA),  ce qui signifie que le code Java compilé peut s\'exécuter sur toutes les plates-formes prenant en charge Java sans avoir besoin de recompilation.</string>
+    <string name="c_sharp_description">d</string>
+    <string name="c_description">d</string>
+    <string name="sql_description">e</string>
+</resources>
