@@ -7,8 +7,10 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
 
@@ -77,9 +79,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
                         new CertificateFragment()).commit();
                 break;
-            case R.id.nav_projects:
-                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                        new ProjectsFragment()).commit();
+            case R.id.nav_share:
+                Intent shareApp = new Intent();
+                shareApp.setAction(Intent.ACTION_SEND);
+                shareApp.putExtra(Intent.EXTRA_TEXT, getResources().getString(R.string.shareText) +
+                        "https://github.com/Ley-EL/BiographyApp");
+                shareApp.setType("text/plain");
+                startActivity(Intent.createChooser(shareApp, getResources().getString(R.string.appChooserTitle)));
                 break;
         }
         drawerLayout.closeDrawer(GravityCompat.START);

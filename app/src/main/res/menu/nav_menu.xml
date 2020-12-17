@@ -8,34 +8,27 @@
 
         <item
             android:id="@+id/nav_profile"
-            android:title="Profile" />
+            android:title="@string/nav_profile" />
 
         <item
             android:id="@+id/nav_biography"
-            android:title="Biography" />
+            android:title="@string/nav_biography" />
 
         <item
             android:id="@+id/nav_language_learned"
-            android:title="Language learned" />
+            android:title="@string/nav_language_learned" />
 
         <item
             android:id="@+id/nav_certificate"
-            android:title="Certificate" />
-
-        <item
-            android:id="@+id/nav_projects"
-            android:title="Projects" />
+            android:title="@string/nav_certificate" />
 
     </group>
 
     <group android:id="@+id/group2">
         <item
             android:id="@+id/nav_share"
-            android:title="Share"/>
+            android:title="@string/nav_share"/>
 
-        <item
-            android:id="@+id/nav_settings"
-            android:title="Settings"/>
     </group>
 
 </menu>

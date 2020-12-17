@@ -50,9 +50,16 @@
         considéré comme l\'une des technologies coeur du World Wide Web.
     </string>
     <string name="python_description"><b>Python</b> est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.</string>
-    <string name="cpp_description">d</string>
+    <string name="cpp_description"><b>C++</b> est un langage de programmation compilé permettant la programmation sous de multiples paradigmes (comme la programmation procédurale, orientée objet ou générique). Ses bonnes performances, et sa compatibilité avec le C en font un des langages de programmation les plus utilisés dans les applications où la performance est critique.</string>
     <string name="java_description"><b>Java</b> est un langage de programmation orienté objet, basé sur des classes, conçu pour avoir le moins de dépendances d\'implémentation que possible. C\'est un langage de programmation généraliste destiné à permettre aux développeurs d\'applications d\'écrire une fois, de s\'exécuter n\'importe où (Write once, run anywhere : WORA),  ce qui signifie que le code Java compilé peut s\'exécuter sur toutes les plates-formes prenant en charge Java sans avoir besoin de recompilation.</string>
-    <string name="c_sharp_description">d</string>
-    <string name="c_description">d</string>
-    <string name="sql_description">e</string>
+    <string name="c_sharp_description"><b>C#</b> (C sharp en anglais) est un langage de programmation orientée objet, commercialisé par Microsoft depuis 2002 et destiné à développer sur la plateforme Microsoft .NET. Il est dérivé du C++ et très proche du Java dont il reprend la syntaxe générale ainsi que les concepts, y ajoutant des notions telles que la surcharge des opérateurs, les indexeurs et les délégués.</string>
+    <string name="c_description"><b>C</b> est un langage de programmation impératif généraliste, de bas niveau. Inventé au début des années 1970 pour réécrire UNIX, C est devenu un des langages les plus utilisés, encore de nos jours. De nombreux langages plus modernes comme C++, C#, Java et PHP ou Javascript ont repris une syntaxe similaire au C et reprennent en partie sa logique.</string>
+    <string name="sql_description"><b>SQL</b> (Structured Query Language) est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de SQL permet de rechercher, d\'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.</string>
+    <string name="shareText">"Regardez le code source de mon application à: "</string>
+    <string name="appChooserTitle">Choisissez une application pour partager le code source de l\'application</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_biography">Biographie</string>
+    <string name="nav_language_learned">Language appris</string>
+    <string name="nav_certificate">Certificat</string>
+    <string name="nav_share">Partager</string>
 </resources>
