@@ -11,16 +11,8 @@
             android:title="@string/nav_profile" />
 
         <item
-            android:id="@+id/nav_biography"
-            android:title="@string/nav_biography" />
-
-        <item
             android:id="@+id/nav_language_learned"
             android:title="@string/nav_language_learned" />
-
-        <item
-            android:id="@+id/nav_certificate"
-            android:title="@string/nav_certificate" />
 
     </group>
 

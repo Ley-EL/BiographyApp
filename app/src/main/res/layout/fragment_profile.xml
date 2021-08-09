@@ -7,15 +7,6 @@
     android:background="@drawable/profile_color_gradient"
     android:padding="10dp">
 
-    <ImageView
-        android:id="@+id/profile_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/profile_picture"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <TextView
         android:id="@+id/profile_nickname"
         android:layout_width="wrap_content"
@@ -24,13 +15,12 @@
         android:textColor="@color/colorWhite"
         android:textSize="30sp"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/profile_image" />
+        app:layout_constraintRight_toRightOf="parent" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/custom_border"
         android:padding="15dp"
         app:layout_constraintLeft_toLeftOf="parent"
